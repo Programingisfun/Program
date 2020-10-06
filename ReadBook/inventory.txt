@@ -1,0 +1,102 @@
+116807#A Tale of Two Cities#Charles Dickens#3.73#9.99#1
+111272#The Iliad#Homer#2.78#9.99#10
+164440#The Great Gatsby#F. Scott Fitzgerald#4.92#9.99#8
+122503#Pride and Prejudice#Jane Austen#3.29#8.99#3
+144303#Little Lord Fauntleroy#Frances Hodgson Burnett#3.09#9.99#1
+170933#Alice's Adventures in Wonderland#Lewis Carroll#2.78#9.99#6
+199097#The Awakening#Kate Chopin#4.12#8.99#1
+177633#Robinson Crusoe#Daniel Defoe#3.49#7.99#2
+111967#Little Women#Louisa May Alcott#4.93#7.99#6
+191745#Emma#Jane Austen#4.91#7.99#8
+135001#Sense and Sensibility#Jane Austen#4.08#8.99#9
+171490#The Wonderful Wizard of Oz#L. Frank Baum#2.96#7.99#4
+127722#Lorna Doone#R. D. Blackmore#3.49#9.99#2
+106853#Jane Eyre#Charlotte Brontë#2.08#7.99#4
+160298#Wuthering Heights#Emily Brontë#3.35#8.99#6
+189814#The Secret Garden#Frances Hodgson Burnett#4.36#9.99#10
+124115#Tales from the Arabian Nights#Richard Francis Burton#3.29#8.99#8
+134195#Through the Looking-Glass#Lewis Carroll#2.04#7.99#9
+182188#Don Quixote of La Mancha#Miguel de Cervantes Saavedra#4.05#8.99#3
+131566#The Man Who Was Thursday#G.K. Chesterton#3.37#9.99#5
+151501#The Napoleon of Notting Hill#G.K. Chesterton#2.71#9.99#8
+119358#The Moonstone#Wilkie Collins#3.97#7.99#5
+121609#The Woman in White#Wilkie Collins#4.45#7.99#6
+166298#Heart of Darkness#Joseph Conrad#3.99#9.99#3
+100260#Lord Jim#Joseph Conrad#3.94#8.99#6
+125968#The Deerslayer#James Fenimore Cooper#4.3#8.99#3
+197942#The Last of the Mohicans#James Fenimore Cooper#3.82#8.99#8
+133821#The Red Badge of Courage#Stephen Crane#2.12#7.99#2
+148590#The Fortunes and Misfortunes of the Famous Moll Flanders#Daniel Defoe#2.38#7.99#7
+119790#Bleak House#Charles Dickens#4.79#9.99#7
+197972#A Christmas Carol#Charles Dickens#3.95#7.99#5
+145223#David Copperfield#Charles Dickens#3.6#8.99#7
+136123#Great Expectations#Charles Dickens#4.13#9.99#9
+129094#Oliver Twist#Charles Dickens#2.44#8.99#5
+125226#The Brothers Karamazov#Fyodor Dostoyevsky#2.63#7.99#5
+159590#Crime and Punishment#Fyodor Dostoyevsky#4.59#8.99#8
+197385#The Adventures of Sherlock Holmes#Arthur Conan Doyle#3.72#7.99#8
+142385#The Hound of the Baskervilles#Arthur Conan Doyle#3.85#8.99#1
+128144#The Count of Monte Cristo#Alexandre Dumas#4.35#7.99#6
+163534#The Man in the Iron Mask#Alexandre Dumas#3.11#7.99#3
+175244#Middlemarch#George Eliot#3.18#9.99#3
+101815#Silas Marner#George Eliot#3.33#9.99#8
+189553#The Diary of a Nobody#George Grossmith and Weedon Grossmith#3.25#9.99#3
+130211#Allan Quatermain#Henry Rider Haggard#2.77#8.99#6
+137335#King Solomon's Mines#Henry Rider Haggard#4.95#7.99#8
+197439#Far from the Madding Crowd#Thomas Hardy#3.31#7.99#2
+168872#Tess of the D'Urbervilles#Thomas Hardy#4.94#8.99#6
+139789#The Scarlet Letter#Nathaniel Hawthorne#3.15#8.99#10
+115680#Tanglewood Tales for Girls and Boys#Nathaniel Hawthorne#3.55#7.99#4
+133502#A Wonder-Book for Girls and Boys#Nathaniel Hawthorne#4.08#7.99#2
+177844#The Four Million#O. Henry#4.08#9.99#2
+154849#The Odyssey#Homer#2.31#7.99#5
+195419#The Prisoner of Zenda#Anthony Hope#3.09#7.99#10
+195223#The Hunchback of Notre-Dame#Victor Hugo#3.6#7.99#6
+147317#Les Misérables#Victor Hugo#2#9.99#5
+160597#The Sketch Book of Geoffrey Crayon#Washington Irving#2.04#9.99#1
+141976#The Aspern Papers#Henry James#4.54#7.99#5
+148381#The Turn of the Screw#Henry James#3.65#9.99#10
+178209#The Jungle Book#Rudyard Kipling#3.53#8.99#8
+164607#Kim#Rudyard Kipling#4.22#7.99#7
+170053#The Man Who Would Be King#Rudyard Kipling#3.3#9.99#1
+160444#The Phantom of the Opera#Gaston Leroux#4.85#8.99#9
+108155#The Call of the Wild#Jack London#2.57#9.99#9
+158266#White Fang#Jack London#4.11#9.99#5
+174819#The Princess and Curdie#George MacDonald#2.33#9.99#1
+148762#The Princess and the Goblin#George MacDonald#3.97#7.99#9
+160589#The Prince#Niccolò Machiavelli#2.77#8.99#9
+161200#Moby Dick#Herman Melville#3.6#8.99#8
+145480#Utopia#Thomas More#3.55#7.99#8
+141238#Rights of Man#Thomas Paine#2.26#8.99#8
+161113#Tales of Mystery & Imagination#Edgar Allan Poe#4.93#9.99#5
+168418#Ivanhoe#Sir Walter Scott#2.85#7.99#6
+176563#Waverley#Sir Walter Scott#2.17#8.99#10
+162967#Black Beauty#Anna Sewell#2.69#7.99#4
+104473#Hamlet#William Shakespeare#2.48#8.99#9
+163459#King Lear#William Shakespeare#2.3#9.99#3
+100973#MacBeth#William Shakespeare#3.97#8.99#1
+135231#A Midsummer Night's Dream#William Shakespeare#3.03#9.99#1
+162533#Othello, The Moor of Venice#William Shakespeare#4.03#9.99#1
+123934#Romeo and Juliet#William Shakespeare#4.79#9.99#5
+133549#The Taming of the Shrew#William Shakespeare#3.49#9.99#1
+115879#The Tempest#William Shakespeare#3.7#7.99#4
+173650#Frankenstein#Mary Shelley#3.29#9.99#7
+110299#The Strange Case of Dr. Jekyll and Mr. Hyde#Robert Louis Stevenson#2.21#9.99#5
+168244#Kidnapped#Robert Louis Stevenson#4.96#7.99#5
+191560#Dracula#Bram Stoker#4.51#9.99#4
+189551#Uncle Tom's Cabin#Harriet Beecher Stowe#2.05#7.99#9
+159274#Gulliver's Travels#Jonathan Swift#4.13#9.99#6
+122012#Vanity Fair#William Makepeace Thackeray#2.88#9.99#9
+181550#Walden#Henry David Thoreau#2.95#8.99#2
+135690#Anna Karenina#Leo Tolstoy#2.1#9.99#4
+109565#War and Peace#Leo Tolstoy#4.42#9.99#3
+107307#Barchester Towers#Anthony Trollope#2.1#9.99#10
+143127#The Adventures of Huckleberry Finn#Mark Twain#4.87#9.99#6
+116641#The Adventures of Tom Sawyer#Mark Twain#2.48#9.99#6
+115974#A Connecticut Yankee in King Arthur's Court#Mark Twain#4.73#9.99#2
+109239#Journey to the Center of the Earth#Jules Verne#3.05#8.99#4
+154189#20,000 Leagues Under the Sea#Jules Verne#3.56#8.99#1
+145898#The Time Machine#H.G. Wells#3.2#7.99#1
+198867#The Age of Innocence#Edith Wharton#2.39#9.99#2
+160811#The Importance of Being Earnest#Oscar Wilde#4.91#8.99#9
+126671#The Picture of Dorian Gray#Oscar Wilde#4.45#7.99#1
