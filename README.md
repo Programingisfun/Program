@@ -1,1 +1,1 @@
-The following 3 files and starter code are c++ programs
+The following 3 C++ programs and starter code are c++ programs
